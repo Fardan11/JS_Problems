@@ -1,4 +1,4 @@
-output = [];
+var output = [];
 var num = 1;
 
 function fizzBuzz() {
